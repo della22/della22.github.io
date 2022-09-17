@@ -4,7 +4,7 @@
 
 ### Proyek Sistem Informasi Masjid
 
-[SI Masjid](/sample_page)
+[SI Masjid](https://github.com/della22/masjid)
 <img src="images/dashboard.png?raw=true"/>
 
 ---
