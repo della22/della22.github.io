@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Proyek Sistem Informasi Masjid
 
-[Project 1 Title](/sample_page)
+[SI Masjid](/sample_page)
 <img src="images/dashboard.png?raw=true"/>
 
 ---
@@ -31,5 +31,3 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
