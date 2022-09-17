@@ -13,6 +13,6 @@
 
 ### Category Name 2
 
-- [SI Masjid]([https://github.com/della22/masjid/])
+- [SI Masjid](https://www.github.com/della22/masjid/)
 
 ---
