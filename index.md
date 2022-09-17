@@ -4,6 +4,8 @@
 
 ### Proyek Sistem Informasi Masjid
 
+https://img.shields.io/badge/Github-My Repository-181717?logo=Github
+
 [SI Masjid](https://github.com/della22/masjid)
 <img src="images/dashboard.png?raw=true"/>
 
